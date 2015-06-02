@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Admin User",
+  "rdfs:comment": "User admin: permissions for Admin User in collection labtrove_sortase_example",
+  "annal:user_uri": "mailto:admin@localhost",
+  "annal:type_id": "_user",
+  "annal:user_permissions": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG",
+    "ADMIN"
+  ],
+  "annal:id": "admin",
+  "@id": "./",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:type": "annal:User"
+}

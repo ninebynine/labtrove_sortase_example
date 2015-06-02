@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "LabTrove example: Bio Blogs; Sortase Cloning",
+  "rdfs:comment": "",
+  "annal:software_version": "0.1.13",
+  "annal:type_id": "_collection",
+  "annal:default_list": "Labtrove_post_list",
+  "annal:id": "labtrove_sortase_example",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

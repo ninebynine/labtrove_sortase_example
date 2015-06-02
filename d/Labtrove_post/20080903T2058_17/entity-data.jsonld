@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Dried solution of mannitol from THF",
+  "rdfs:comment": "Product #17 of Drying of saturated solutions of various solids and solvents\r\n\r\nhttps://blogs.chem.soton.ac.uk/sortase_cloning/10859/Drying_of_saturated_solutions_of_various_solids_and_solvents.html\r\n\r\n(this could be a link field)\r\n",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "",
+  "labtrove:link": "https://blogs.chem.soton.ac.uk/sortase_cloning/10877/Dried_solution_of_mannitol_from_THF.html",
+  "@id": "./",
+  "labtrove:post_type": "solution",
+  "labtrove:instrument": "",
+  "labtrove:data_type": "",
+  "labtrove:location": "",
+  "labtrove:material": "",
+  "labtrove:project": "usefulchem_solubility",
+  "annal:id": "20080903T2058_17",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

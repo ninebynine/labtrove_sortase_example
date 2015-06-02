@@ -1,0 +1,9 @@
+{
+  "annal:type_id": "_entitytypedata",
+  "annal:id": "Labtrove_post",
+  "@id": "./",
+  "@type": [
+    "annal:Type_Data"
+  ],
+  "annal:type": "annal:Type_Data"
+}

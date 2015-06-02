@@ -1,0 +1,20 @@
+{
+  "labtrove:post_type": "SANS",
+  "rdfs:label": "SANS/TRANS pinA samples",
+  "rdfs:comment": "The following samples were run with run numbers as given. Samples were run in 1mm rectangular cells with a sample volume of 200 uL.",
+  "labtrove:data_type": "",
+  "labtrove:instrument": "D22",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "",
+  "labtrove:location": "ILL",
+  "labtrove:material": "",
+  "labtrove:project": "",
+  "labtrove:link": "https://blogs.chem.soton.ac.uk/sortase_cloning/9297/SANSTRANS_pinA_samples.html",
+  "annal:id": "20080720T0820",
+  "@id": "./",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,20 @@
+{
+  "labtrove:post_type": "purification_protein",
+  "rdfs:label": "Lysis of Sortase Cell pellet #6",
+  "rdfs:comment": "Gel sample #6 from Sortase growth (3.56 g) was resuspended in 17.5 mL of BugBuster solution and incubated at room temperature for 30 minutes.\r\n\r\nThe suspension was cleared by centrifugation (SS34, 20krpm, 25', 4 C).\r\n\r\nThe cleared lysate was (eventually) loaded onto a 1 mL Nickel column. Flow through was collected (5 mL fractions) and the column washed in Tris-HCl pH 8 150 mM KCl 10 mM imidazole until absorbance returned to baseline. The column was eluted in the same buffer with 300 mM imidazole.\r\n\r\nFlow through fractions 1-15. Elution fractions 16-\r\n\r\nPeak in fractions 17/18.",
+  "labtrove:data_type": "",
+  "labtrove:instrument": "",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "",
+  "labtrove:location": "RAL",
+  "labtrove:material": "",
+  "labtrove:project": "",
+  "labtrove:link": "",
+  "annal:id": "20080521T0926",
+  "@id": "./",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

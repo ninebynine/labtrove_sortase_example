@@ -1,0 +1,20 @@
+{
+  "labtrove:post_type": "",
+  "rdfs:label": "Preparation of saturated solutions of various solids and solvents",
+  "rdfs:comment": "According to the table entries, solid was added to 1.5 mL eppendorf tubes and 500 uL of solvent added. Each tube was then vortexed for 30 seconds. The tubes were examined and to those tubes where the solid had completely dissolved (boc-Gly and vanillin) further solid was added followed by 30s vortexing until residual solid was observed.\r\n\r\nThe full log of the experiment is available at:\r\n\r\nhttp://usefulchem.wikispaces.com/exp207\r\n",
+  "labtrove:data_type": "",
+  "labtrove:instrument": "",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "",
+  "labtrove:location": "",
+  "labtrove:material": "",
+  "labtrove:project": "",
+  "labtrove:link": "https://blogs.chem.soton.ac.uk/sortase_cloning/10765/Preparation_of_saturated_solutions_of_various_solids_and_solvents.html",
+  "annal:id": "20080903T1218",
+  "@id": "./",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

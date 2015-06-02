@@ -1,0 +1,20 @@
+{
+  "labtrove:post_type": "",
+  "rdfs:label": "Log file for D22 SANS 19/20 July",
+  "rdfs:comment": "Complete logfile for our run plus several hours of stuff from before we started. Our runs start around 10:30am\r\n",
+  "labtrove:data_type": "D22_nomad_logfile",
+  "labtrove:instrument": "",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "",
+  "labtrove:location": "",
+  "labtrove:material": "",
+  "labtrove:project": "",
+  "labtrove:link": "https://blogs.chem.soton.ac.uk/sortase_cloning/meta/DATA_TYPE/value/D22_nomad_logfile",
+  "annal:id": "20080719T1103",
+  "@id": "./",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

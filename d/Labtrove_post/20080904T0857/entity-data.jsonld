@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Weighing of empty tubes",
+  "rdfs:comment": "The following samples were weighed on a balance tared to zero with a holder in place. i.e. the weight reported is the weight of the sample and the container or tube it is held in. (!!! copy of sample weighing text)",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "",
+  "labtrove:link": "https://blogs.chem.soton.ac.uk/sortase_cloning/10908/Weighing_of_empty_tubes.html",
+  "@id": "./",
+  "labtrove:post_type": "Weighing",
+  "labtrove:instrument": "Mettler_4_place_balance",
+  "labtrove:data_type": "",
+  "labtrove:location": "",
+  "labtrove:material": "",
+  "labtrove:project": "usefulchem_solubility",
+  "annal:id": "20080904T0857",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

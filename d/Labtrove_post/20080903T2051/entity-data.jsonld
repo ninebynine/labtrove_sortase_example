@@ -1,0 +1,20 @@
+{
+  "labtrove:post_type": "",
+  "rdfs:label": "Drying of saturated solutions of various solids and solvents",
+  "rdfs:comment": "The saturated solutions (200 uL) as given were transferred to the specified, pre-weighed tubes. These solutions were then dried by speedevac for approximately 2.5 hours to give the dry products as given.\r\n\r\nThe solution of boc-Gly in ethanol dried to give a gel\r\n\r\n\r\nThe full log of the experiment is available at:\r\n\r\nhttp://usefulchem.wikispaces.com/exp207",
+  "labtrove:data_type": "",
+  "labtrove:instrument": "",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "",
+  "labtrove:location": "",
+  "labtrove:material": "",
+  "labtrove:project": "usefulchem_solubility",
+  "labtrove:link": "https://blogs.chem.soton.ac.uk/sortase_cloning/10859/Drying_of_saturated_solutions_of_various_solids_and_solvents.html",
+  "annal:id": "20080903T2051",
+  "@id": "./",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

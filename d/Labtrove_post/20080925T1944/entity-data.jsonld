@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Designing oligos for Tus laser tweezers experiment",
+  "rdfs:comment": "In November I am doing an experiment with Andy Ward at the LSF where our aim is to do single molecule studies of Tus binding to its cognate DNA binding site Ter using laser tweezers. The experimental design involves having Tus on one bead, attached using the methodology we described in our PLoS ONE paper PMID: 18000537. The DNA will be attached to a second bead via biotin.",
+  "annal:type_id": "Labtrove_post",
+  "labtrove:note_about": "Tus-Tweezers_experiment",
+  "labtrove:link": "https://blogs.chem.soton.ac.uk/sortase_cloning/18571/Designing_oligos_for_Tus_laser_tweezers_experiment.html",
+  "@id": "./",
+  "labtrove:post_type": "",
+  "labtrove:instrument": "",
+  "labtrove:data_type": "",
+  "labtrove:location": "",
+  "labtrove:material": "",
+  "labtrove:project": "",
+  "annal:id": "20080925T1944",
+  "@type": [
+    "labtrove:Post",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

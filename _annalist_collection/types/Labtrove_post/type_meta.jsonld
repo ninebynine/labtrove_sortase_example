@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Labtrove post",
+  "rdfs:comment": "Labtrove post",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "labtrove:Post",
+  "annal:type_list": "Labtrove_post_list",
+  "annal:id": "Labtrove_post",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Labtrove_post_view"
+}
